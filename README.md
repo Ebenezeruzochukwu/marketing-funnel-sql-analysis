@@ -74,7 +74,7 @@ This project analyzes user behavior and conversion funnels for a marketing agenc
 ## Author
 
 **Ebenezer Uzochukwu**  
-Data Analyst | SQL & Power BI Enthusiast | Portfolio-ready Marketing Funnel Project  
+Data Analyst | SQL & Power BI Expert  
 
 ---
 
